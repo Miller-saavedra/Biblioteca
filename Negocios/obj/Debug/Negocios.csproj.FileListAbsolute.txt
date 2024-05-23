@@ -1,0 +1,9 @@
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Negocios\bin\Debug\Negocios.dll
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Negocios\bin\Debug\Negocios.pdb
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Negocios\bin\Debug\Datos.dll
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Negocios\bin\Debug\Datos.pdb
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Negocios\obj\Debug\Negocios.csproj.Up2Date
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Negocios\obj\Debug\Negocios.dll
+D:\Desktop\Proyecto_Herramientas\Biblioteca_Miller\Negocios\obj\Debug\Negocios.pdb
